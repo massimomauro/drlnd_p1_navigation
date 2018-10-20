@@ -1,6 +1,6 @@
 # Algorithm description
 
-The algorithm used to solve the environment is **deep Q learning**, which is basically an extension of the Q Learning approach to support continuos environment states, by means approximate Q value functions. 
+The algorithm used to solve the environment is **deep Q learning**, which is basically an extension of the Q Learning approach to support continuos environment states, by means of approximate Q value functions. 
 
 ## Q Learning
 
