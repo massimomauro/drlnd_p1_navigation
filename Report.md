@@ -26,7 +26,7 @@ The second modification to online Q-learning aimed at further improving the stab
 
 Generating the targets using an older set of parameters adds a delay between the time an update to Q is made and the time the update affects the targets $y_j$, making divergence or oscillations much more unlikely.
 
-![Deep_Q_Learning](/Users/max/Google_Drive/learning/MOOCs/DRLND-Udacity/drlnd_p1_navigation/images/Deep_Q_Learning.png)
+![Deep_Q_Learning](images/Deep_Q_Learning.png)
 
 
 
