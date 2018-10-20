@@ -50,7 +50,7 @@ The model architecture for both Q target and Q current is a neural network with 
 
 It took the algorithm 488 episodes to solve the environment. The plot of rewards, without any averaging, is the following:
 
-![DQN_Navigation_solution](/Users/max/Google_Drive/learning/MOOCs/DRLND-Udacity/drlnd-p1-navigation-max/images/DQN_Navigation_solution.png)
+![DQN_Navigation_solution](images/DQN_Navigation_solution.png)
 
 # Future ideas
 
