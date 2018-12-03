@@ -62,7 +62,6 @@ pytz==2018.5
 pyyaml==3.13
 pyzmq==17.1.2
 qtconsole==4.4.1
-requests==2.19.1
 scipy==1.1.0
 seaborn==0.9.0
 send2trash==1.5.0
